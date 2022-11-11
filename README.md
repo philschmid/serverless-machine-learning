@@ -8,7 +8,7 @@ This repo contains examples the following examples.
 
 | Language                                                                                                 | Description                               |
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| [gradio-aws-lambda-transformers](https://github.com/aws-samples/aws-cdk-examples/tree/master/typescript) | Deploy a Gradio application on AWS Lambda |
+| [gradio-aws-lambda-transformers](https://github.com/philschmid/serverless-machine-learning/tree/main/gradio-aws-lambda-transformers) | Deploy a Gradio application on AWS Lambda |
 
 
 ## Learning Resources
